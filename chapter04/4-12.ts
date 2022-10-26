@@ -63,4 +63,6 @@
   const tree = new Tree(a);
   console.log(tree.calcTimes(3, tree.root));
   
+
+  
 }
